@@ -41,7 +41,7 @@ class ViewController: UIViewController {
     }
 
     private func setupViews(){
-        view.backgroundColor = .white
+        view.backgroundColor = .gray
         view.addSubview(firstSpringButton)
         view.addSubview(secondSpringButton)
     }
